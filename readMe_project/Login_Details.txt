@@ -1,0 +1,28 @@
+Email			        Password
+=====			        ========
+
+sarah@mycput.org	    !Sarah123
+charles@mycput.org	    !Charles123
+eve@mycput.org		    !Eve123
+jordan@mycput.org	    !Jordan123
+james@mycput.org	    !James123
+sam@sam.com		    123
+
+
+
+
+
+====== Online Store ======
+We sell items for Students
+    * Books
+    * Dictionnary
+    * Magazine
+    * Comics
+
+The table item will include
+--- Id ----
+--- Name ----
+--- Description ---
+--- Price --- The price in dollar ($)
+--- Image --- 
+
